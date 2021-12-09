@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Linux, security, and all around tech stuff.
 - 🌱 I’m currently learning ... I was going to school for my AS in "Linux Admin,"
 but found I learn better on my own. 
-- 💞️ I’m looking to collaborate on ... I what to learn as much as I can.
+- 💞️ I’m looking to collaborate on ... I want to learn as much as I can.
 - 📫 How to reach me ... RevnaTech@porotonmail.com
 
 <!---
